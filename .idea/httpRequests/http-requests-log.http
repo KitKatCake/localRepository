@@ -1,0 +1,270 @@
+GET http://localhost:8000/index
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-16T102348.200.html
+
+###
+
+GET http://localhost:8000/inex
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-16T102343.404.html
+
+###
+
+GET http://localhost:8000/caculate_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-16T081102.200.html
+
+###
+
+GET http://localhost:8000/caculate_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-16T081049.200.html
+
+###
+
+GET http://localhost:8000/caculate_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-16T080911.200.html
+
+###
+
+GET http://localhost:8000/admin
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T102736.200.html
+
+###
+
+GET http://localhost:8000/add_books
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T095932.200.html
+
+###
+
+GET http://localhost:8000/add_books
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T095652.200.html
+
+###
+
+GET http://localhost:8000/add_books
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T095647.404.html
+
+###
+
+GET http://localhost:8000/add_books
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/modify_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T054740.200.html
+
+###
+
+GET http://localhost:8000/modify_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T054203.200.html
+
+###
+
+GET http://localhost:8000/modify_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T054157.404.html
+
+###
+
+GET http://localhost:8000/delete_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T053707.200.html
+
+###
+
+GET http://localhost:8000/delete_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T053601.200.html
+
+###
+
+GET http://localhost:8000/delete_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T052636.200.html
+
+###
+
+GET http://localhost:8000/add_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T051948.200.html
+
+###
+
+GET http://localhost:8000/add_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T051852.200.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T051745.200.html
+
+###
+
+GET http://localhost:8000/add_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T051734.200.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050738.200.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050725.200.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050654.200.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050530.200.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050528.404.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050504.404.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050502.404.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050500.404.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050459.404.html
+
+###
+
+GET http://localhost:8000/search_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050456.404.html
+
+###
+
+GET http://localhost:8000/add_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050210.200.html
+
+###
+
+GET http://localhost:8000/add_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T050207.500.html
+
+###
+
+GET http://localhost:8000/add_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T045849.200.html
+
+###
+
+GET http://localhost:8000/add_book
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-15T045752.200.html
+
+###
+
